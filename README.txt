@@ -1,5 +1,5 @@
 # PesqBD
-Objetivo: Documentar versão 1.0, realizar upgrades como experiência profissional e criação de portfólio
+Objetivo: Documentar versão 1.0, realizar upgrades como experiência profissional e criação de portfólio.
 
 1.0: O sistema, temporariamente chamado de PesqBD ou simplesmente Pesquisa de Satisfação, tem as funcionalidades de criar e conduzir pesquisas de satisfação para uma instituição, permitindo seus usuários respondê-las e visualizar o andamento de cada pergunta das pesquisas através de um gráfico segmentado.
 
